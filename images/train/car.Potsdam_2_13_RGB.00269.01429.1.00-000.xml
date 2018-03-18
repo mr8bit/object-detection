@@ -1,0 +1,26 @@
+<annotation verified="yes">
+	<folder>for_learning</folder>
+	<filename>car.Potsdam_2_13_RGB.00269.01429.1.00-000.jpg</filename>
+	<path>/home/cyber/for_learning/car.Potsdam_2_13_RGB.00269.01429.1.00-000.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>64</width>
+		<height>64</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>car</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>22</xmin>
+			<ymin>17</ymin>
+			<xmax>41</xmax>
+			<ymax>44</ymax>
+		</bndbox>
+	</object>
+</annotation>
